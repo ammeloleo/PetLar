@@ -15,8 +15,8 @@ t2/
 ### Backend
 ```bash
 cd backend
-cp .env.example .env
-# edite .env com sua MONGODB_URI
+
+
 npm install
 npm run dev
 ```
@@ -24,7 +24,7 @@ npm run dev
 ### Frontend
 ```bash
 cd frontend
-cp .env.example .env
+
 npm install
 npm run dev
 ```
