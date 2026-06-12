@@ -5,7 +5,7 @@ Sistema de adoção de animais com frontend React + Vite e backend Node/Express.
 ## Estrutura
 
 ```
-t2/
+Petlar/
 ├── frontend/   # React + Vite + Bootstrap 5
 └── backend/    # Node.js + Express 5 + MongoDB
 ```
